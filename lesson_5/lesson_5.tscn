@@ -1,0 +1,10 @@
+[gd_scene load_steps=3 format=3 uid="uid://cmf5xw1hcylc2"]
+
+[ext_resource type="Script" uid="uid://6sxualpegqdr" path="res://lesson_5/lesson_5.gd" id="1_ju4wh"]
+[ext_resource type="Texture2D" uid="uid://bwfd0p6h0udkw" path="res://icon.svg" id="1_jwfaa"]
+
+[node name="Lesson5" type="Sprite2D"]
+texture = ExtResource("1_jwfaa")
+script = ExtResource("1_ju4wh")
+
+[node name="Camera2D" type="Camera2D" parent="."]
