@@ -30,6 +30,6 @@ extends Sprite2D
 # There are many kinds of Nodes, as they make up the backbone of the entire
 # Godot engine. Learning what each and every one of their properties do is what 
 # defines mastery over the system. But don't worry, there is a huge amount
-# of great documentation of the Godot website, as well as built into the engine
+# of great documentation on the Godot website, as well as built into the engine
 # itself, to make learning that much easier. 
 # --------------------------------------------------------------------------- #
