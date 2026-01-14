@@ -25,10 +25,10 @@ func _ready():
 # which game object is which. Thankfully, that can be done by saving them as a 
 # variable. 
 #
-# Near the top of this script is a variable named `smiley`, which we have saved
-# a reference to our Sprite2d node to. Because of this, this script can access 
-# the properties and methods that belong to that node. We access them by using
-# the variable name followed by a period and the name of the property or 
+# Near the top of this script is a variable named `smiley`, to which we have 
+# saved a reference to our Sprite2d node. Because of this, this script can 
+# access the properties and methods that belong to that node. We access them by 
+# using the variable name followed by a period and the name of the property or 
 # method.
 #
 # Look below this lesson text. You will see a function that is called whenever 
@@ -39,6 +39,9 @@ func _ready():
 # also has a function called make_happier(). Change the _on_spacebar_pressed()
 # function to call the make_happier() function instead. Test your work and see
 # if you can't help Smiley's day improve.
+#
+# When you have successfully brightened Smiley's day, continue to the next 
+# lesson.
 # --------------------------------------------------------------------------- #
 
 func _on_spacebar_pressed():

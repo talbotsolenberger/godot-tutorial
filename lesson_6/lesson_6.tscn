@@ -9,10 +9,10 @@
 
 [node name="Lesson6" type="Node" node_paths=PackedStringArray("smiley")]
 script = ExtResource("1_0mb7g")
-smiley = NodePath("smiley")
+smiley = NodePath("Smiley")
 
 [node name="Camera2D" type="Camera2D" parent="."]
 
-[node name="smiley" type="Sprite2D" parent="."]
+[node name="Smiley" type="Sprite2D" parent="."]
 script = ExtResource("3_yt76q")
 pngs = Array[Resource]([ExtResource("3_xcnuq"), ExtResource("4_s2eis"), ExtResource("5_tf5yq"), ExtResource("6_ha81k")])
