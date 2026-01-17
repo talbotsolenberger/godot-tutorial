@@ -6,7 +6,7 @@ var sum = 5
 # Lesson 4 - Properties and Methods
 #
 # In the last lesson, we created a variable and used it in a function. When 
-# we created it, we created in inside the _ready() function. But that's not the
+# we created it, we created it inside the _ready() function. But that's not the
 # only way to do it. In Godot, all of our code is contained in "Objects" 
 # which are special ways to code that allow variables to belong to the entire
 # file instead of just a function. 
