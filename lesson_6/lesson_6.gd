@@ -33,7 +33,8 @@ func _ready():
 #
 # Look below this lesson text. You will see a function that is called whenever 
 # spacebar gets pressed during play. Below it, you can see that we call a 
-# method from smiley that makes him angrier. Press play and see what happens.
+# method from smiley that makes him angrier. Press play and then tap space
+# bar to see what happens.
 #
 # Smiley looks like he's having a worse day. But we can change that. Smiley 
 # also has a function called make_happier(). Change the _on_spacebar_pressed()
