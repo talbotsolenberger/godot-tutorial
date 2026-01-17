@@ -25,9 +25,10 @@ extends Node
 # reading the code. These are called comments. 
 # 
 # Once you're ready to see if your code works, you can press Play Current Scene
-# in the top right corner of the engine, or press F6. This will execute your 
-# code. Try  this out now! Notice on the bottom of the screen in a text box, it 
-# says "Hello new game developer!"? That's because of the code that we wrote.
+# in the top right corner of the engine, or press F6. Note that this is NOT Run
+# Project. This will execute your code. Try  this out now! Notice on the 
+# bottom of the screen in a text box, it says "Hello new game developer!"?
+# That's because of the code that we wrote at the bottom of this file.
 #
 # To stop Playing the game, close the game window or press the stop button 
 # next to where the Play button was. Alternatively, you can press F8.
